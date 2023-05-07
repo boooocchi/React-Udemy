@@ -48,3 +48,6 @@ ul {
   margin: 0;
   padding: 0;
 }
+.blur {
+  filter: blur(3px);
+}
