@@ -1,0 +1,7 @@
+{
+  "prettier.useEditorConfig": false,
+  "prettier.quoteProps": "preserve",
+  "prettier.configPath": "",
+  "prettier.resolveGlobalModules": false,
+  "prettier.withNodeModules": false
+}
